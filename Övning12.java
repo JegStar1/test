@@ -1,8 +1,9 @@
-package jeg;
 
-//* Jocke Olofsson övning 5.3 *//
 import javax.swing.JOptionPane;
 
+/*
+ * Jocke Olofsson övning 5.3
+ */
 public class Övning12 {
 
 	public static void main(String[] args) {
@@ -18,4 +19,3 @@ public class Övning12 {
 	}
 
 }
-// hej hej hej
